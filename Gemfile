@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.0.8'
 
+gem "haml"
 group :development, :test do
   gem 'sqlite3', '1.3.8'
   gem 'rspec-rails', '2.13.1'
